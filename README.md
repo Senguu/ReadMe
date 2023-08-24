@@ -1,4 +1,4 @@
-## Olá, meu nome é <strong>{Giovanni}!</strong>
+## Olá, meu nome é <strong>Giovanni!</strong>
 
 🔭 Atualmente seguindo em um projeto de bots variados
 
