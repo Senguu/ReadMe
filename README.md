@@ -18,4 +18,4 @@
 
 ## Informações sobre meu GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Senguu_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Senguu&showicons=true)
